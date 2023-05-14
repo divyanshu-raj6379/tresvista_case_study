@@ -1,0 +1,259 @@
+author_name,ticker_name,category,line_item,cal_year,period,estimate_actual,item_value,last_refresh
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Revenue,2018,FY,Actual,91.867,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Revenue,2019,FY,Actual,112.103,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Revenue,2020,FY,Actual,152.368,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Revenue,2021,FY,Estimate,197.53843033735333,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Revenue,2022,FY,Estimate,254.7535894272923,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Revenue,2023,FY,Estimate,318.9550220720406,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Revenue,2024,FY,Estimate,391.7673651470752,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,COGS (ex D&A),2018,FY,Actual,21.937,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,COGS (ex D&A),2019,FY,Actual,27.023,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,COGS (ex D&A),2020,FY,Actual,34.126,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,COGS (ex D&A),2021,FY,Estimate,46.816607989952736,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,COGS (ex D&A),2022,FY,Estimate,58.020129992065826,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,COGS (ex D&A),2023,FY,Estimate,69.69167232274089,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,COGS (ex D&A),2024,FY,Estimate,81.97732115702551,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,OpEx (ex COGS),2018,FY,Actual,85.973,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,OpEx (ex COGS),2019,FY,Actual,99.04400000000001,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,OpEx (ex COGS),2020,FY,Actual,122.81299999999999,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,OpEx (ex COGS),2021,FY,Estimate,139.06705495749674,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,OpEx (ex COGS),2022,FY,Estimate,163.16967402818074,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,OpEx (ex COGS),2023,FY,Estimate,184.03704773556743,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,OpEx (ex COGS),2024,FY,Estimate,201.17254200302307,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBITDA,2018,FY,Actual,-27.638999999999996,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBITDA,2019,FY,Actual,-38.418,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBITDA,2020,FY,Actual,-35.613,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBITDA,2021,FY,Estimate,-32.31724060004886,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBITDA,2022,FY,Estimate,-21.66394187845651,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBITDA,2023,FY,Estimate,-1.6457009863774639,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBITDA,2024,FY,Estimate,29.550467112402664,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,D&A,2018,FY,Actual,10.341,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,D&A,2019,FY,Actual,2.569,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,D&A,2020,FY,Actual,3.084,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,D&A,2021,FY,Estimate,2.8446,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,D&A,2022,FY,Estimate,2.7924027065635677,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,D&A,2023,FY,Estimate,2.8196693226311274,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,D&A,2024,FY,Estimate,2.9102862824015654,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Depreciation,2018,FY,Actual,1.8,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Depreciation,2019,FY,Actual,2.6,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Depreciation,2020,FY,Actual,3.084,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Depreciation,2021,FY,Estimate,2.8446,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Depreciation,2022,FY,Estimate,2.7924027065635677,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Depreciation,2023,FY,Estimate,2.8196693226311274,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Depreciation,2024,FY,Estimate,2.9102862824015654,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Amortization,2018,FY,Actual,8.497,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Amortization,2019,FY,Actual,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Amortization,2020,FY,Actual,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Amortization,2021,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Amortization,2022,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Amortization,2023,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Amortization,2024,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBIT,2018,FY,Actual,-37.98,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBIT,2019,FY,Actual,-40.987,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBIT,2020,FY,Actual,-38.697,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBIT,2021,FY,Estimate,-35.16184060004886,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBIT,2022,FY,Estimate,-24.456344585020076,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBIT,2023,FY,Estimate,-4.465370309008591,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBIT,2024,FY,Estimate,26.6401808300011,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Interest Expense,2018,FY,Actual,0.836,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Interest Expense,2019,FY,Actual,1.367,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Interest Expense,2020,FY,Actual,3.072,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Interest Expense,2021,FY,Estimate,3.072,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Interest Expense,2022,FY,Estimate,3.072,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Interest Expense,2023,FY,Estimate,3.072,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Interest Expense,2024,FY,Estimate,3.072,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBT,2018,FY,Actual,-38.868,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBT,2019,FY,Actual,-42.562,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBT,2020,FY,Actual,-37.535,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBT,2021,FY,Estimate,-37.07184060004886,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBT,2022,FY,Estimate,-26.36634458502007,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBT,2023,FY,Estimate,-6.375370309008585,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,EBT,2024,FY,Estimate,24.730180830001107,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Current Tax,2018,FY,Actual,0.01,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Current Tax,2019,FY,Actual,0.028,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Current Tax,2020,FY,Actual,0.025,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Current Tax,2021,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Current Tax,2022,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Current Tax,2023,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Current Tax,2024,FY,Estimate,5.182837974300232,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Net Income,2018,FY,Actual,-38.878,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Net Income,2019,FY,Actual,-49.89,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Net Income,2020,FY,Actual,-38.522,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Net Income,2021,FY,Estimate,-37.07184060004886,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Net Income,2022,FY,Estimate,-26.36634458502007,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Net Income,2023,FY,Estimate,-6.375370309008585,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Net Income,2024,FY,Estimate,19.547342855700876,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Shares Outstanding,2018,FY,Actual,16.807,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Shares Outstanding,2019,FY,Actual,17.83363032216183,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Shares Outstanding,2020,FY,Actual,39.092,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Shares Outstanding,2021,FY,Estimate,68.72701554075459,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Shares Outstanding,2022,FY,Estimate,68.83331004049148,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Shares Outstanding,2023,FY,Estimate,68.95653428656021,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Shares Outstanding,2024,FY,Estimate,69.09667722691427,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Common Dividends per Share,2019,FY,Actual,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Common Dividends per Share,2020,FY,Actual,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Common Dividends per Share,2021,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Common Dividends per Share,2022,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Common Dividends per Share,2023,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Income Statement Inputs,Common Dividends per Share,2024,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Cash & Short-Term Investments,2018,FY,Actual,36.16,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Cash & Short-Term Investments,2019,FY,Actual,7.795,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Cash & Short-Term Investments,2020,FY,Actual,219.447,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Cash & Short-Term Investments,2021,FY,Estimate,180.33149273143007,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Cash & Short-Term Investments,2022,FY,Estimate,148.08368458932264,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Cash & Short-Term Investments,2023,FY,Estimate,133.94674954622081,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Cash & Short-Term Investments,2024,FY,Estimate,144.3293308945294,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital - Assets (A/R, Inventory, Prepaid Exp)",2018,FY,Actual,16.96,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital - Assets (A/R, Inventory, Prepaid Exp)",2019,FY,Actual,23.875999999999998,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital - Assets (A/R, Inventory, Prepaid Exp)",2020,FY,Actual,34.62499999999999,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital - Assets (A/R, Inventory, Prepaid Exp)",2021,FY,Estimate,36.65018361804492,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital - Assets (A/R, Inventory, Prepaid Exp)",2022,FY,Estimate,43.867792124212336,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital - Assets (A/R, Inventory, Prepaid Exp)",2023,FY,Estimate,51.96670880530486,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital - Assets (A/R, Inventory, Prepaid Exp)",2024,FY,Estimate,61.15187922327479,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Assets,2018,FY,Actual,53.12,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Assets,2019,FY,Actual,31.671,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Assets,2020,FY,Actual,254.072,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Assets,2021,FY,Estimate,216.98167634947498,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Assets,2022,FY,Estimate,191.951476713535,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Assets,2023,FY,Estimate,185.91345835152566,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Assets,2024,FY,Estimate,205.48121011780418,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"PP&E, net",2018,FY,Actual,5.231,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"PP&E, net",2019,FY,Actual,22.306,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"PP&E, net",2020,FY,Actual,18.964,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"PP&E, net",2021,FY,Estimate,19.0824764550603,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"PP&E, net",2022,FY,Estimate,19.81626782686713,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"PP&E, net",2023,FY,Estimate,21.04196081465512,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"PP&E, net",2024,FY,Estimate,22.646700275664113,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Other L-T Operating Assets,2018,FY,Actual,0.7530000000000001,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Other L-T Operating Assets,2019,FY,Actual,2.086999999999996,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Other L-T Operating Assets,2020,FY,Actual,3.589999999999975,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Other L-T Operating Assets,2021,FY,Estimate,3.589999999999975,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Other L-T Operating Assets,2022,FY,Estimate,3.589999999999975,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Other L-T Operating Assets,2023,FY,Estimate,3.589999999999975,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Other L-T Operating Assets,2024,FY,Estimate,3.589999999999975,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Assets,2018,FY,Actual,5.984000000000002,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Assets,2019,FY,Actual,24.393,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Assets,2020,FY,Actual,22.553999999999974,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Assets,2021,FY,Estimate,22.672476455060263,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Assets,2022,FY,Estimate,23.406267826867094,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Assets,2023,FY,Estimate,24.631960814655088,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Assets,2024,FY,Estimate,26.236700275664077,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital – Liabilities (A/P, Deferred Revenue)",2018,FY,Actual,26.691,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital – Liabilities (A/P, Deferred Revenue)",2019,FY,Actual,28.833000000000002,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital – Liabilities (A/P, Deferred Revenue)",2020,FY,Actual,42.714,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital – Liabilities (A/P, Deferred Revenue)",2021,FY,Estimate,42.81399340458415,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital – Liabilities (A/P, Deferred Revenue)",2022,FY,Estimate,44.88392972547104,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital – Liabilities (A/P, Deferred Revenue)",2023,FY,Estimate,46.44697466025829,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,"Working Capital – Liabilities (A/P, Deferred Revenue)",2024,FY,Estimate,48.07212303184491,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Short-Term Debt,2018,FY,Actual,0.946,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Short-Term Debt,2019,FY,Actual,5.081,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Short-Term Debt,2020,FY,Actual,3.173,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Short-Term Debt,2021,FY,Estimate,3.173,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Short-Term Debt,2022,FY,Estimate,3.173,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Short-Term Debt,2023,FY,Estimate,3.173,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Short-Term Debt,2024,FY,Estimate,3.173,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Liabilities,2018,FY,Actual,27.637,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Liabilities,2019,FY,Actual,33.914,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Liabilities,2020,FY,Actual,45.887,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Liabilities,2021,FY,Estimate,45.986993404584155,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Liabilities,2022,FY,Estimate,48.05692972547104,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Liabilities,2023,FY,Estimate,49.61997466025829,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Current Liabilities,2024,FY,Estimate,51.24512303184491,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Long-Term Debt,2018,FY,Actual,23.415,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Long-Term Debt,2019,FY,Actual,54.207,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Long-Term Debt,2020,FY,Actual,12.672,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Long-Term Debt,2021,FY,Estimate,12.672,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Long-Term Debt,2022,FY,Estimate,12.672,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Long-Term Debt,2023,FY,Estimate,12.672,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Long-Term Debt,2024,FY,Estimate,12.672,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Liabilities,2018,FY,Actual,26.497,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Liabilities,2019,FY,Actual,55.699,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Liabilities,2020,FY,Actual,13.98,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Liabilities,2021,FY,Estimate,13.98,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Liabilities,2022,FY,Estimate,13.98,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Liabilities,2023,FY,Estimate,13.98,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Long-Term Liabilities,2024,FY,Estimate,13.98,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Common Equity,2018,FY,Actual,0.005,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Common Equity,2019,FY,Actual,0.005,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Common Equity,2020,FY,Actual,0.007,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Common Equity,2021,FY,Estimate,0.007,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Common Equity,2022,FY,Estimate,0.007,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Common Equity,2023,FY,Estimate,0.007,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Common Equity,2024,FY,Estimate,0.007,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Retained Earnings,2018,FY,Actual,-224.725,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Retained Earnings,2019,FY,Actual,-274.549,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Retained Earnings,2020,FY,Actual,-313.391,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Retained Earnings,2021,FY,Estimate,-350.4628406000489,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Retained Earnings,2022,FY,Estimate,-376.8291851850689,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Retained Earnings,2023,FY,Estimate,-383.2045554940775,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Retained Earnings,2024,FY,Estimate,-363.6572126383766,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Shareholders Equity,2018,FY,Actual,4.97,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Shareholders Equity,2019,FY,Actual,-33.549,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Shareholders Equity,2020,FY,Actual,216.759,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Shareholders Equity,2021,FY,Estimate,179.68715939995116,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Shareholders Equity,2022,FY,Estimate,153.3208148149311,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Shareholders Equity,2023,FY,Estimate,146.94544450592252,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Balance Sheet Inputs,Total Shareholders Equity,2024,FY,Estimate,166.4927873616234,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Depreciation & Amortization,2018,FY,Actual,10.341,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Depreciation & Amortization,2019,FY,Actual,2.569,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Depreciation & Amortization,2020,FY,Actual,3.084,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Depreciation & Amortization,2021,FY,Estimate,2.8446,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Depreciation & Amortization,2022,FY,Estimate,2.7924027065635677,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Depreciation & Amortization,2023,FY,Estimate,2.8196693226311274,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Depreciation & Amortization,2024,FY,Estimate,2.9102862824015654,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Change in Net Working Capital,2018,FY,Actual,4.629,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Change in Net Working Capital,2019,FY,Actual,-3.174,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Change in Net Working Capital,2020,FY,Actual,1.33,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Change in Net Working Capital,2021,FY,Estimate,-1.9251902134607723,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Change in Net Working Capital,2022,FY,Estimate,-5.147672185280531,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Change in Net Working Capital,2023,FY,Estimate,-6.535871746305272,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Change in Net Working Capital,2024,FY,Estimate,-7.560022046383315,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Operations,2018,FY,Actual,-30.591,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Operations,2019,FY,Actual,-39.969,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Operations,2020,FY,Actual,-26.529,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Operations,2021,FY,Estimate,-36.15243081350963,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Operations,2022,FY,Estimate,-28.721614063737032,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Operations,2023,FY,Estimate,-10.09157273268273,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Operations,2024,FY,Estimate,14.897607091719125,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,CapEx (PP&E),2018,FY,Actual,-3.326,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,CapEx (PP&E),2019,FY,Actual,-5.579,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,CapEx (PP&E),2020,FY,Actual,-1.964,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,CapEx (PP&E),2021,FY,Estimate,-2.9630764550602997,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,CapEx (PP&E),2022,FY,Estimate,-3.526194078370399,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,CapEx (PP&E),2023,FY,Estimate,-4.0453623104191205,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,CapEx (PP&E),2024,FY,Estimate,-4.515025743410558,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Investing,2018,FY,Actual,-26.517,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Investing,2019,FY,Actual,17.871,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Investing,2020,FY,Actual,-1.964,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Investing,2021,FY,Estimate,-2.9630764550602997,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Investing,2022,FY,Estimate,-3.526194078370399,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Investing,2023,FY,Estimate,-4.0453623104191205,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Investing,2024,FY,Estimate,-4.515025743410558,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Total Debt Issued / (Repaid),2018,FY,Actual,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Total Debt Issued / (Repaid),2019,FY,Actual,16.45,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Total Debt Issued / (Repaid),2020,FY,Actual,13.244,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Total Debt Issued / (Repaid),2021,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Total Debt Issued / (Repaid),2022,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Total Debt Issued / (Repaid),2023,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Total Debt Issued / (Repaid),2024,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Issuance / (Repurchase) of Stock,2018,FY,Actual,64.236,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Issuance / (Repurchase) of Stock,2019,FY,Actual,0.901,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Issuance / (Repurchase) of Stock,2020,FY,Actual,174.408,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Issuance / (Repurchase) of Stock,2021,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Issuance / (Repurchase) of Stock,2022,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Issuance / (Repurchase) of Stock,2023,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Issuance / (Repurchase) of Stock,2024,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Common Dividends Paid,2018,FY,Actual,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Common Dividends Paid,2019,FY,Actual,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Common Dividends Paid,2020,FY,Actual,-12.814,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Common Dividends Paid,2021,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Common Dividends Paid,2022,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Common Dividends Paid,2023,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Common Dividends Paid,2024,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Financing,2018,FY,Actual,64.236,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Financing,2019,FY,Actual,17.351,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Financing,2020,FY,Actual,239.95,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Financing,2021,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Financing,2022,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Financing,2023,FY,Estimate,0.0,2023-05-15 01:53:20.221888
+varun.pillai@tresvista.com,BIGC US Equity,Cash Flow Statement Inputs,Cash from Financing,2024,FY,Estimate,0.0,2023-05-15 01:53:20.221888
